@@ -1,1 +1,1 @@
-# DSA-C---Pointers-
+# DSA-C
